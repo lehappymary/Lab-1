@@ -1,0 +1,39 @@
+#include "stdafx.h"
+#include <iostream>
+using namespace std;
+
+
+int ex1()
+{  
+cout << "\aExercise 1\n";
+cout << "\nUniversity :\t University Teknikal Malaysia, Melaka\n";
+cout << " \nFaculty :\t FKE\n";
+cout << "\nProgramme :\t BEKC\n \n";
+cout << "\nMy name is Sara Binti Abdul Azeez. I am from Sarawak.\n \n";
+return 0;
+}
+
+int ex2()
+{
+cout << "\aExercise 2";
+cout << "\n************************************";
+cout << "\n****\t\tUTEM\t\t****";
+cout << "\n************************************\n";
+return 0;
+}
+
+int main()
+{
+cout << "10";
+cout << "\n 9";
+cout << "\n 8";
+cout << "\n 7           x";
+cout << "\n 6 x";
+cout << "\n 5                    x";
+cout << "\n 4   x";
+cout << "\n 3               x";
+cout << "\n 2     x";
+cout << "\n 1 x";
+cout << "\n 0 1 2 3 4 5 6 7 8 9 10\n\n";
+return 0;
+}
