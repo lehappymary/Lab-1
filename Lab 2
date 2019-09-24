@@ -1,0 +1,13 @@
+#include "stdafx.h"
+#include <iostream>
+using namespace std;
+
+
+int main()
+{
+cout << "\aExercise 2";
+cout << "\n************************************";
+cout << "\n****\t\tUTEM\t\t****";
+cout << "\n************************************\n";
+return 0;
+}
