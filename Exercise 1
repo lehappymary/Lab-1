@@ -1,0 +1,14 @@
+#include "stdafx.h"
+#include <iostream>
+using namespace std;
+
+
+int main()
+{  
+cout << "\aExercise 1\n";
+cout << "\nUniversity :\t University Teknikal Malaysia, Melaka\n";
+cout << " \nFaculty :\t FTMK\n";
+cout << "\nProgramme :\t BITI\n \n";
+cout << "\nMy name is Siti Kamariah Binti Ismail. I am from Sabah.\n \n";
+return 0;
+}
